@@ -12,7 +12,6 @@ For each year/round we provide (as available):
 - **Assignment text** (TXT/Markdown/PDF)
 - **Supporting documentation** given to participants (e.g., architecture notes, hints, “focus” instructions)
 - **Source code** (unobfuscated baseline where possible)
-- **Build pipeline** to regenerate the binaries:
   
 
 ## What is NOT included
